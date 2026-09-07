@@ -1,0 +1,12 @@
+{
+  "claim_id": "CLM-003",
+  "patient_id": "SYN-202",
+  "payer_id": "DEMO-PAYER-B",
+  "service_date": "2026-03-10",
+  "denial_category": "missing_documentation",
+  "required_documents": [
+    "referral_letter",
+    "clinical_notes",
+    "prior_auth"
+  ]
+}

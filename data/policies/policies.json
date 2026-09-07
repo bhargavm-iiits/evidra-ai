@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "POL-A-V1-001",
+    "payer_id": "DEMO-PAYER-A",
+    "version": "v1",
+    "effective_from": "2025-01-01",
+    "effective_to": "2026-06-01",
+    "title": "DEMO-PAYER-A outpatient specialist documentation requirements (v1)",
+    "text": "For claims denied under missing_documentation, DEMO-PAYER-A requires the following supporting documents at resubmission: a referral letter signed by the referring provider, and clinical notes covering the date of service. A prior authorization reference number is not required under this policy version."
+  },
+  {
+    "chunk_id": "POL-A-V1-002",
+    "payer_id": "DEMO-PAYER-A",
+    "version": "v1",
+    "effective_from": "2025-01-01",
+    "effective_to": "2026-06-01",
+    "title": "DEMO-PAYER-A resubmission window (v1)",
+    "text": "Resubmissions for missing_documentation denials must be received within 45 calendar days of the original denial notice. Documents submitted after this window are not eligible for reconsideration under this policy version."
+  },
+  {
+    "chunk_id": "POL-A-V2-001",
+    "payer_id": "DEMO-PAYER-A",
+    "version": "v2",
+    "effective_from": "2026-06-01",
+    "effective_to": null,
+    "title": "DEMO-PAYER-A outpatient specialist documentation requirements (v2)",
+    "text": "Effective 2026-06-01, DEMO-PAYER-A requires the following supporting documents for claims denied under missing_documentation: a referral letter signed by the referring provider, clinical notes covering the date of service, and a prior authorization reference number (prior_auth) issued before the date of service. Claims resubmitted without a valid prior authorization reference number will be denied again under this policy version."
+  },
+  {
+    "chunk_id": "POL-A-V2-002",
+    "payer_id": "DEMO-PAYER-A",
+    "version": "v2",
+    "effective_from": "2026-06-01",
+    "effective_to": null,
+    "title": "DEMO-PAYER-A resubmission window (v2)",
+    "text": "Effective 2026-06-01, resubmissions for missing_documentation denials must be received within 30 calendar days of the original denial notice, a reduction from the 45-day window under the prior policy version."
+  },
+  {
+    "chunk_id": "POL-B-V1-001",
+    "payer_id": "DEMO-PAYER-B",
+    "version": "v1",
+    "effective_from": "2025-01-01",
+    "effective_to": "2026-06-01",
+    "title": "DEMO-PAYER-B outpatient specialist documentation requirements (v1)",
+    "text": "For claims denied under missing_documentation, DEMO-PAYER-B requires a referral letter and clinical notes covering the date of service. A prior authorization reference number is not required under this policy version."
+  },
+  {
+    "chunk_id": "POL-B-V1-002",
+    "payer_id": "DEMO-PAYER-B",
+    "version": "v1",
+    "effective_from": "2025-01-01",
+    "effective_to": "2026-06-01",
+    "title": "DEMO-PAYER-B resubmission window (v1)",
+    "text": "Resubmissions for missing_documentation denials must be received within 60 calendar days of the original denial notice under this policy version."
+  },
+  {
+    "chunk_id": "POL-B-V2-001",
+    "payer_id": "DEMO-PAYER-B",
+    "version": "v2",
+    "effective_from": "2026-06-01",
+    "effective_to": null,
+    "title": "DEMO-PAYER-B outpatient specialist documentation requirements (v2)",
+    "text": "Effective 2026-06-01, DEMO-PAYER-B requires a referral letter, clinical notes covering the date of service, and a prior authorization reference number (prior_auth) issued before the date of service for claims denied under missing_documentation."
+  },
+  {
+    "chunk_id": "POL-B-V2-002",
+    "payer_id": "DEMO-PAYER-B",
+    "version": "v2",
+    "effective_from": "2026-06-01",
+    "effective_to": null,
+    "title": "DEMO-PAYER-B resubmission window (v2)",
+    "text": "Effective 2026-06-01, resubmissions for missing_documentation denials must be received within 30 calendar days of the original denial notice under this policy version."
+  }
+]
